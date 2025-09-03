@@ -1,5 +1,3 @@
-Descrição da Landing Page dos Vingadores
-
 Landing Page: Os Vingadores
 
 Esta é uma landing page dedicada aos Vingadores. 
